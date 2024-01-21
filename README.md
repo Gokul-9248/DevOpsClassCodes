@@ -5,7 +5,6 @@ This tutorial teaches you some of the basic concepts in [Vaadin Framework](https
 a fast read for learning how to get started -ddd not an example on =sasdasdasdasd helloxxx hellowwww my nae is eead
  akshat  second edi ssskk mmm ddd
 Running the example from the command hello test mysdsdsdsdsdsdasdasdasdasdeerwerwershsshshsgokul.
-
 -------------------hi akshat hello how are you vvvvjj ddddddsdasdasdas jjjj
 ```jjjj my
 $ mvn jetty:runheee  fcddd
